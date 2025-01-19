@@ -1,30 +1,30 @@
 Fast React Pizza
-پروژه Fast React Pizza یک اپلیکیشن React برای سفارش پیتزا است که از Redux Toolkit برای مدیریت وضعیت، React Router برای مسیریابی، و Tailwind CSS برای استایل‌دهی استفاده می‌کند. این پروژه با Vite برای سرعت توسعه بهینه شده است.
+The Fast React Pizza project is a pizza ordering app built with React, Redux Toolkit for state management, React Router for navigation, and Tailwind CSS for styling. It is optimized for fast development with Vite.
 
-ویژگی‌ها
-استفاده از React و Redux Toolkit برای مدیریت وضعیت.
-React Router برای مسیریابی بین صفحات.
-طراحی ریسپانسیو با Tailwind CSS.
-راه‌اندازی سریع با Vite.
-راه‌اندازی
-پروژه را کلون کرده و وارد پوشه پروژه شوید:
+Features
+React and Redux Toolkit for state management.
+React Router for navigation between pages.
+Responsive design using Tailwind CSS.
+Fast setup with Vite.
+Setup
+Clone the project and navigate to the project folder:
 
 bash
 Copy
 Edit
 git clone https://github.com/username/fast-react-pizza.git
 cd fast-react-pizza
-وابستگی‌ها را نصب کنید:
+Install dependencies:
 
 bash
 Copy
 Edit
 npm install
-برای راه‌اندازی محیط توسعه:
+To start the development server:
 
 bash
 Copy
 Edit
 npm run dev
-توسعه‌دهندگان
-React، Redux Toolkit، Vite
+Technologies Used
+React, Redux Toolkit, Vite
