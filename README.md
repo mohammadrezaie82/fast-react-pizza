@@ -18,7 +18,7 @@ Vite: یک ابزار ساخت سریع و بهینه برای توسعه.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/fast-react-pizza.git
+git clone https://github.com/mohammadrezaie82/fast-react-pizza.git
 cd fast-react-pizza
 وابستگی‌ها را نصب کنید:
 bash
